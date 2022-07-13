@@ -3,7 +3,7 @@ package AES;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class AESKey_1827230 {
+public class AESKeys {
 
     private static final String S_box[][] = {
             {"63", "7C", "77", "7B", "F2", "6B", "6F", "C5", "30", "01", "67", "2B", "FE", "D7", "AB", "76"},
